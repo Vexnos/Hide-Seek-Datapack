@@ -1,4 +1,7 @@
 # Startup Guide
+
+**Warning: I have not yet implemented a condition when all the hiders are found, the game will still continue for 10 minutes at this point, it is somthing I am working on to fix**
+
 1. Run "/function hideseek:init" to initialise the necessary teams.
 2. Create an armour stand that is invulnerable, invisible and has the tag "lobby", put this armour stand in the lobby area of your hide and seek.
 3. Create an armour stand that is invulnerable, invisible and has the tag "start", put this in the area you want the game to start.
